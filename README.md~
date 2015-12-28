@@ -6,7 +6,7 @@ This repository contains the graph data structure and some algorithms.
 * Ruby 1.9
 
 ### Data structures
-* Graph (generic)
+* Graph
 * Digraph
 
 ### Algorithms
